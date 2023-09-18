@@ -26,7 +26,7 @@ X장_제목_이름
   - [백유진](https://github.com/rachel4w2)
   - [유재윤](https://github.com/yoojaeyoonGit)
   - [이동우](https://github.com/dongwooooooo)
-  - [임아정](https://github.com/ajaj0123)
+  - [임아정](https://github.com/Ajeong-Im)
   - [하재민](https://github.com/penloo)
 
 <br>
